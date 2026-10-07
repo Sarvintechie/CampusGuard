@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# AI models
+*.pt
+*.pkl
+*.onnx
+
+# Datasets
+dataset/
+public_dataset/
+*.csv
+
+# CCTV / generated evidence
+evidence/
+logs/
+*.mp4
+*.avi
+*.mov
+
+# Environment/secrets
+.env
